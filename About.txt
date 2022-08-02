@@ -1,0 +1,12 @@
+The Syndicate Bank gives two choices. A user can
+either choose ATM or Net Banking.
+
+
+
+1.  ATM gives the user the facilities of deposit, withdrawal,
+    ministatement, pin change and account statement.
+
+2.  Net Banking gives the user the facilities of fund transfer
+    to another account of same bank, account information,
+    account statement, account info alteration and
+    login credentials alteration.
